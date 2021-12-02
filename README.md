@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-## Hola, soy Jesús Sánchez y soy programador web
+## Hola, me llamo Jesús Sánchez y soy programador web
 <div align="center">
   <a href="https://github.com/jesestsana93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesestsana93&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href = "mailto:chuyunam93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/jesestsana93" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jesestsana93/jesestsana93/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
